@@ -1,4 +1,3 @@
-a = 3
 b = 4
-riz = a - b
-print(f"Різниця а та b буде {riz}")
+sum = a + b
+print(f"Сума а та b буде {sum}")
