@@ -1,4 +1,3 @@
-a = 3
 b = 4
 sum = a + b
 print(f"Сума а та b буде {sum}")
